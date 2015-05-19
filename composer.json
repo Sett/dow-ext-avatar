@@ -1,5 +1,5 @@
 {
-    "name": "ofweek-ext/avatar",
+    "name": "ofweek-ext-avatar",
     "type": "ofweek-extension",
     "description": "Add an avatar to your DOW profile",
     "require": {}
