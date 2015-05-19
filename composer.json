@@ -1,7 +1,7 @@
 {
     "name": "ofweek-ext/avatar",
     "description": "Add an avatar to your DOW profile",
-    "required": {
+    "require": {
         "ofweek/core": "2.*"
     }
 }
